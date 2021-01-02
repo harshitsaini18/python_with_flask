@@ -1,0 +1,20 @@
+{
+	"params":{
+	"host":"localhost",
+	"user":"root",
+	"password":"",
+	"database":"Blog",
+	"facebook":"https://facebook.com/myonlineschool",
+	"twitter":"https://twitter.com/myonlineschool",
+	"github":"https://github.com/myonlineschool",
+	"no_of_post":5,
+	"Blog_title":"Think good will good",
+	"mail_password":"#aimtoflyinthesky)",
+	"mail_user":"myonlineschool2021@gmail.com",
+	"blog_name":"MyOnlineSchool",
+	"admin_name":"Harshit Saini",
+	"admin_password":"pleasestudy",
+	"login_img":"logo.png",
+	"file_path":"//storage//emulated//0//A_Flask//static//img"
+	}
+}
