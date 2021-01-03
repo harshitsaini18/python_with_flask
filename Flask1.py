@@ -173,5 +173,5 @@ def delete(sno):
 def logout ():
 	session.pop("user")
 	return redirect("/userarea")
-
-app.run(debug=True)
+if __name__=="__main__":
+        app.run(debug=True)
